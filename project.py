@@ -43,9 +43,9 @@ def main():
 
     # 라운드 설정
     rounds_config = [
-        {'duration': 30, 'spawn_sides': ['top', 'bottom'], 'spawn_rate': 0.4},
-        {'duration': 30, 'spawn_sides': ['top', 'bottom', 'left', 'right'], 'spawn_rate': 0.6},
-        {'duration': 30, 'spawn_sides': ['top', 'bottom', 'left', 'right'], 'spawn_rate': 0.5},
+        {'duration': 30, 'spawn_sides': ['top', 'bottom'], 'spawn_rate': 0.5},
+        {'duration': 30, 'spawn_sides': ['top', 'bottom', 'left', 'right'], 'spawn_rate': 0.4},
+        {'duration': 30, 'spawn_sides': ['top', 'bottom', 'left', 'right'], 'spawn_rate': 0.3},
     ]
 
     # 점수 담을 변수
